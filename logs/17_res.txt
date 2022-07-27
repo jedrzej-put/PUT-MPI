@@ -1,0 +1,74 @@
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 8 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 1 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 2 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 3 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 4 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 5 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 6 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 7 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 9 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 10 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 13 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 14 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 15 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 16 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: Nie wysyłam zgody do Statka 18 (po tej samej stronie) bo mam wiekszy priorytet req_id:0
+Statek 17: Nie wysyłam zgody do Statka 19 (po innej stronie) bo mam wiekszy priorytet req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 0 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 11 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: state:State.GATHER_AGREEMENTS_LEFT_SIDE Wysyłam zgode na wszystko do Statka 12 bo mam mniejszy priorytet. my_lamport:0, przecwink:0 req_id:0
+Statek 17: Nie wysyłam zgody do Statka 6 (po tej samej stronie) bo mam wiekszy priorytet req_id:1
+Statek 17: Nie wysyłam zgody do Statka 1 (po tej samej stronie) bo mam wiekszy priorytet req_id:1
+Statek 17: Nie wysyłam zgody do Statka 2 (po innej stronie) bo mam wiekszy priorytet req_id:1
+Statek 17: Nie wysyłam zgody do Statka 3 (po innej stronie) bo mam wiekszy priorytet req_id:1
+Statek 17: Nie wysyłam zgody do Statka 7 (po tej samej stronie) bo mam wiekszy priorytet req_id:1
+Statek 17: stopped_ships_opposite_side: Wysyłam  na blokade na kanału 0 i UNWAIT do Statka 3 req_id:1
+Statek 17: stopped_ships_opposite_side: Wysyłam  na blokade na kanału 0 i UNWAIT do Statka 2 req_id:1
+Statek 17: stopped_ships_opposite_side: Wysyłam  na blokade na kanału 0 i UNWAIT do Statka 19 req_id:0
+Statek 17: stopped_ships_SAME_side: Wysyłam  zgode na wszystko oprocz  kanał 0  do Statka 6 req_id:1
+Statek 17: stopped_ships_SAME_side: Wysyłam  zgode na wszystko oprocz  kanał 0  do Statka 1 req_id:1
+Statek 17: stopped_ships_SAME_side: Wysyłam  zgode na wszystko oprocz  kanał 0  do Statka 18 req_id:0
+Statek 17: stopped_ships_SAME_side: Wysyłam  zgode na wszystko oprocz  kanał 0  do Statka 7 req_id:1
+Statek 17 req_id:0: Plyne w prawa strone w kanale nr: 0
+Statek 17: Wysyłam blokade na kanał 0 do Statka 0 req_id:1
+Statek 17: Wysyłam blokade na kanał 0 do Statka 5 req_id:1
+Statek 17: Wysyłam blokade na kanał 0 do Statka 10 req_id:1
+Statek 17: Wysyłam zgode na wszystko prócz kanału 0 do Statka 11 req_id:1
+Statek 17: Wysyłam zgode na wszystko prócz kanału 0 do Statka 8 req_id:1
+Statek 17: Wysyłam zgode na wszystko prócz kanału 0 do Statka 4 req_id:1
+Statek 17: Opuszczam kanal nr: 0
+Statek 17: holded_permissions: Wysyłam  ACK na  kanał 0  do Statka 11 req_id:1
+Statek 17: holded_permissions: Wysyłam  ACK na  kanał 0  do Statka 7 req_id:1
+Statek 17: holded_permissions: Wysyłam  ACK na  kanał 0  do Statka 8 req_id:1
+Statek 17: holded_permissions: Wysyłam  ACK na  kanał 0  do Statka 6 req_id:1
+Statek 17: holded_permissions: Wysyłam  ACK na  kanał 0  do Statka 1 req_id:1
+Statek 17: holded_permissions: Wysyłam  ACK na  kanał 0  do Statka 18 req_id:0
+Statek 17: holded_permissions: Wysyłam  ACK na  kanał 0  do Statka 4 req_id:1
+Statek 17: denied_permissions: Wysyłam  UNBLOCK na  kanał 0  do Statka 0 req_id:1
+Statek 17: denied_permissions: Wysyłam  UNBLOCK na  kanał 0  do Statka 2 req_id:1
+Statek 17: denied_permissions: Wysyłam  UNBLOCK na  kanał 0  do Statka 3 req_id:1
+Statek 17: denied_permissions: Wysyłam  UNBLOCK na  kanał 0  do Statka 10 req_id:1
+Statek 17: denied_permissions: Wysyłam  UNBLOCK na  kanał 0  do Statka 5 req_id:1
+Statek 17: denied_permissions: Wysyłam  UNBLOCK na  kanał 0  do Statka 19 req_id:0
+Statek 17: Wysyłam zgode na wszystko do Statka 12 req_id:1
+Statek 17: Wysyłam zgode na wszystko do Statka 13 req_id:1
+Statek 17: Wysyłam zgode na wszystko do Statka 15 req_id:1
+Statek 17: Wysyłam zgode na wszystko do Statka 9 req_id:1
+Statek 17: Wysyłam zgode na wszystko do Statka 6 req_id:2
+Statek 17: Wysyłam zgode na wszystko do Statka 18 req_id:1
+Statek 17: Wysyłam zgode na wszystko do Statka 19 req_id:1
+Statek 17: Nie wysyłam zgody do Statka 14 (po innej stronie) bo mam wiekszy priorytet req_id:1
+Statek 17: Nie wysyłam zgody do Statka 1 (po tej samej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 16 (po tej samej stronie) bo mam wiekszy priorytet req_id:1
+Statek 17: Nie wysyłam zgody do Statka 7 (po tej samej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 2 (po innej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 5 (po innej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 10 (po innej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 3 (po innej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 11 (po tej samej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 0 (po innej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 4 (po tej samej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 12 (po innej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 8 (po tej samej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 15 (po tej samej stronie) bo mam wiekszy priorytet req_id:2
+Statek 17: Nie wysyłam zgody do Statka 13 (po tej samej stronie) bo mam wiekszy priorytet req_id:2

@@ -1,0 +1,226 @@
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 0} answer:0 wait:0 req_id:0
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 0} answer:0 wait:0 req_id:0
+19::  source:16, tag:WAIT permission:[0, 0, 0, 0] messsge:{'request_id': 0}
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0} answer:0 wait:1 req_id:0
+19::  source:18, tag:WAIT permission:[0, 0, 0, 0] messsge:{'request_id': 0}
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0} answer:0 wait:2 req_id:0
+19::  source:0, tag:WAIT permission:[0, 0, 0, 0] messsge:{'request_id': 0}
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0} answer:0 wait:3 req_id:0
+19::  source:2, tag:WAIT permission:[0, 0, 0, 0] messsge:{'request_id': 0}
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0} answer:0 wait:4 req_id:0
+19::  source:3, tag:WAIT permission:[0, 0, 0, 0] messsge:{'request_id': 0}
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0} answer:0 wait:5 req_id:0
+19::  source:10, tag:WAIT permission:[0, 0, 0, 0] messsge:{'request_id': 0}
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0} answer:0 wait:6 req_id:0
+19::  source:12, tag:WAIT permission:[0, 0, 0, 0] messsge:{'request_id': 0}
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0} answer:0 wait:7 req_id:0
+19::  source:17, tag:WAIT permission:[0, 0, 0, 0] messsge:{'request_id': 0}
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0} answer:0 wait:8 req_id:0
+19::  source:5, tag:WAIT permission:[0, 0, 0, 0] messsge:{'request_id': 0}
+19:: permission:[0, 0, 0, 0] messsge:{'request_id': 0} answer:0 wait:9 req_id:0
+19::  source:0, tag:BLOCK permission:[0, 0, 0, 0] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[-2, 1, 1, 1] messsge:{'request_id': 0, 'channel_id': 0} answer:1 wait:9 req_id:0
+19::  source:0, tag:UNWAIT permission:[-2, 1, 1, 1] messsge:{'request_id': 0}
+19:: permission:[-2, 1, 1, 1] messsge:{'request_id': 0} answer:1 wait:8 req_id:0
+19::  source:2, tag:BLOCK permission:[-2, 1, 1, 1] messsge:{'request_id': 0, 'channel_id': 1}
+19:: permission:[-1, -1, 2, 2] messsge:{'request_id': 0, 'channel_id': 1} answer:2 wait:8 req_id:0
+19::  source:2, tag:UNWAIT permission:[-1, -1, 2, 2] messsge:{'request_id': 0}
+19:: permission:[-1, -1, 2, 2] messsge:{'request_id': 0} answer:2 wait:7 req_id:0
+19::  source:1, tag:ACK_EXCEPT permission:[-1, -1, 2, 2] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[-1, 0, 3, 3] messsge:{'request_id': 0, 'channel_id': 0} answer:3 wait:7 req_id:0
+19::  source:3, tag:BLOCK permission:[-1, 0, 3, 3] messsge:{'request_id': 0, 'channel_id': 1}
+19:: permission:[0, -2, 4, 4] messsge:{'request_id': 0, 'channel_id': 1} answer:4 wait:7 req_id:0
+19::  source:4, tag:ACK_EXCEPT permission:[0, -2, 4, 4] messsge:{'request_id': 0, 'channel_id': 2}
+19:: permission:[1, -1, 4, 5] messsge:{'request_id': 0, 'channel_id': 2} answer:5 wait:7 req_id:0
+19::  source:3, tag:UNWAIT permission:[1, -1, 4, 5] messsge:{'request_id': 0}
+19:: permission:[1, -1, 4, 5] messsge:{'request_id': 0} answer:5 wait:6 req_id:0
+19::  source:5, tag:BLOCK permission:[1, -1, 4, 5] messsge:{'request_id': 0, 'channel_id': 2}
+19:: permission:[2, 0, 2, 6] messsge:{'request_id': 0, 'channel_id': 2} answer:6 wait:6 req_id:0
+19::  source:5, tag:UNWAIT permission:[2, 0, 2, 6] messsge:{'request_id': 0}
+19:: permission:[2, 0, 2, 6] messsge:{'request_id': 0} answer:6 wait:5 req_id:0
+19::  source:6, tag:ACK_EXCEPT permission:[2, 0, 2, 6] messsge:{'request_id': 0, 'channel_id': 3}
+19:: permission:[3, 1, 3, 6] messsge:{'request_id': 0, 'channel_id': 3} answer:7 wait:5 req_id:0
+19::  source:7, tag:ACK_EXCEPT permission:[3, 1, 3, 6] messsge:{'request_id': 0, 'channel_id': 3}
+19:: permission:[4, 2, 4, 6] messsge:{'request_id': 0, 'channel_id': 3} answer:8 wait:5 req_id:0
+19::  source:3, tag:UNBLOCK permission:[4, 2, 4, 6] messsge:{'request_id': 0, 'channel_id': 1}
+19:: permission:[4, 5, 4, 6] messsge:{'request_id': 0, 'channel_id': 1} answer:8 wait:5 req_id:0
+19::  source:6, tag:ACK permission:[4, 5, 4, 6] messsge:{'request_id': 0, 'channel_id': 3}
+19:: permission:[4, 5, 4, 7] messsge:{'request_id': 0, 'channel_id': 3} answer:8 wait:5 req_id:0
+19::  source:8, tag:ACK_EXCEPT permission:[4, 5, 4, 7] messsge:{'request_id': 0, 'channel_id': 3}
+19:: permission:[5, 6, 5, 7] messsge:{'request_id': 0, 'channel_id': 3} answer:9 wait:5 req_id:0
+19::  source:7, tag:ACK permission:[5, 6, 5, 7] messsge:{'request_id': 0, 'channel_id': 3}
+19:: permission:[5, 6, 5, 8] messsge:{'request_id': 0, 'channel_id': 3} answer:9 wait:5 req_id:0
+19::  source:9, tag:ACK_EXCEPT permission:[5, 6, 5, 8] messsge:{'request_id': 0, 'channel_id': 3}
+19:: permission:[6, 7, 6, 8] messsge:{'request_id': 0, 'channel_id': 3} answer:10 wait:5 req_id:0
+19::  source:10, tag:BLOCK permission:[6, 7, 6, 8] messsge:{'request_id': 0, 'channel_id': 1}
+19:: permission:[7, 5, 7, 9] messsge:{'request_id': 0, 'channel_id': 1} answer:11 wait:5 req_id:0
+19::  source:10, tag:UNWAIT permission:[7, 5, 7, 9] messsge:{'request_id': 0}
+19:: permission:[7, 5, 7, 9] messsge:{'request_id': 0} answer:11 wait:4 req_id:0
+19::  source:2, tag:UNBLOCK permission:[7, 5, 7, 9] messsge:{'request_id': 0, 'channel_id': 1}
+19:: permission:[7, 8, 7, 9] messsge:{'request_id': 0, 'channel_id': 1} answer:11 wait:4 req_id:0
+19::  source:1, tag:ACK permission:[7, 8, 7, 9] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[8, 8, 7, 9] messsge:{'request_id': 0, 'channel_id': 0} answer:11 wait:4 req_id:0
+19::  source:0, tag:UNBLOCK permission:[8, 8, 7, 9] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[11, 8, 7, 9] messsge:{'request_id': 0, 'channel_id': 0} answer:11 wait:4 req_id:0
+19::  source:11, tag:ACK_EXCEPT permission:[11, 8, 7, 9] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[11, 9, 8, 10] messsge:{'request_id': 0, 'channel_id': 0} answer:12 wait:4 req_id:0
+19::  source:12, tag:BLOCK permission:[11, 9, 8, 10] messsge:{'request_id': 0, 'channel_id': 1}
+19:: permission:[12, 7, 9, 11] messsge:{'request_id': 0, 'channel_id': 1} answer:13 wait:4 req_id:0
+19::  source:12, tag:UNWAIT permission:[12, 7, 9, 11] messsge:{'request_id': 0}
+19:: permission:[12, 7, 9, 11] messsge:{'request_id': 0} answer:13 wait:3 req_id:0
+19::  source:13, tag:ACK_EXCEPT permission:[12, 7, 9, 11] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[12, 8, 10, 12] messsge:{'request_id': 0, 'channel_id': 0} answer:14 wait:3 req_id:0
+19:: permission:[12, 8, 10, 12] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 1} answer:14 wait:3 req_id:1
+19::  source:5, tag:UNBLOCK permission:[12, 8, 10, 12] messsge:{'request_id': 0, 'channel_id': 2}
+19:: permission:[12, 8, 13, 12] messsge:{'request_id': 0, 'channel_id': 2} answer:14 wait:3 req_id:0
+19::  source:8, tag:ACK permission:[12, 8, 13, 12] messsge:{'request_id': 0, 'channel_id': 3}
+19:: permission:[12, 8, 13, 13] messsge:{'request_id': 0, 'channel_id': 3} answer:14 wait:3 req_id:0
+19::  source:14, tag:ACK_EXCEPT permission:[12, 8, 13, 13] messsge:{'request_id': 0, 'channel_id': 2}
+19:: permission:[13, 9, 13, 14] messsge:{'request_id': 0, 'channel_id': 2} answer:15 wait:3 req_id:0
+19::  source:15, tag:ACK_EXCEPT permission:[13, 9, 13, 14] messsge:{'request_id': 0, 'channel_id': 3}
+19:: permission:[14, 10, 14, 14] messsge:{'request_id': 0, 'channel_id': 3} answer:16 wait:3 req_id:0
+19:: permission:[14, 10, 14, 14] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 1} answer:16 wait:3 req_id:1
+19:: permission:[14, 10, 14, 14] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 1} answer:16 wait:3 req_id:1
+19::  source:4, tag:ACK permission:[14, 10, 14, 14] messsge:{'request_id': 0, 'channel_id': 2}
+19:: permission:[14, 10, 15, 14] messsge:{'request_id': 0, 'channel_id': 2} answer:16 wait:3 req_id:0
+19::  source:10, tag:UNBLOCK permission:[14, 10, 15, 14] messsge:{'request_id': 0, 'channel_id': 1}
+19:: permission:[14, 13, 15, 14] messsge:{'request_id': 0, 'channel_id': 1} answer:16 wait:3 req_id:0
+19::  source:16, tag:BLOCK permission:[14, 13, 15, 14] messsge:{'request_id': 0, 'channel_id': 1}
+19:: permission:[15, 11, 16, 15] messsge:{'request_id': 0, 'channel_id': 1} answer:17 wait:3 req_id:0
+19::  source:16, tag:UNWAIT permission:[15, 11, 16, 15] messsge:{'request_id': 0}
+19:: permission:[15, 11, 16, 15] messsge:{'request_id': 0} answer:17 wait:2 req_id:0
+19::  source:11, tag:ACK permission:[15, 11, 16, 15] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[16, 11, 16, 15] messsge:{'request_id': 0, 'channel_id': 0} answer:17 wait:2 req_id:0
+19:: permission:[16, 11, 16, 15] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 1} answer:17 wait:2 req_id:1
+19:: permission:[16, 11, 16, 15] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 1} answer:17 wait:2 req_id:1
+19::  source:12, tag:UNBLOCK permission:[16, 11, 16, 15] messsge:{'request_id': 0, 'channel_id': 1}
+19:: permission:[16, 14, 16, 15] messsge:{'request_id': 0, 'channel_id': 1} answer:17 wait:2 req_id:0
+19::  source:13, tag:ACK permission:[16, 14, 16, 15] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[17, 14, 16, 15] messsge:{'request_id': 0, 'channel_id': 0} answer:17 wait:2 req_id:0
+19::  source:17, tag:BLOCK permission:[17, 14, 16, 15] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[15, 15, 17, 16] messsge:{'request_id': 0, 'channel_id': 0} answer:18 wait:2 req_id:0
+19::  source:17, tag:UNWAIT permission:[15, 15, 17, 16] messsge:{'request_id': 0}
+19:: permission:[15, 15, 17, 16] messsge:{'request_id': 0} answer:18 wait:1 req_id:0
+19::  source:18, tag:BLOCK permission:[15, 15, 17, 16] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[13, 16, 18, 17] messsge:{'request_id': 0, 'channel_id': 0} answer:19 wait:1 req_id:0
+19::  source:18, tag:UNWAIT permission:[13, 16, 18, 17] messsge:{'request_id': 0}
+19:: permission:[13, 16, 18, 17] messsge:{'request_id': 0} answer:19 wait:0 req_id:0
+Statek 19 req_id:0: Plyne w lewa strone w kanale nr: 2
+19:: permission:[13, 16, 18, 17] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 1} answer:19 wait:0 req_id:1
+19::  source:9, tag:ACK permission:[13, 16, 18, 17] messsge:{'request_id': 0, 'channel_id': 3}
+19:: permission:[13, 16, 18, 18] messsge:{'request_id': 0, 'channel_id': 3} answer:19 wait:0 req_id:0
+19:: permission:[13, 16, 18, 18] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 1} answer:19 wait:0 req_id:1
+19:: permission:[13, 16, 18, 18] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 1} answer:19 wait:0 req_id:1
+19:: permission:[13, 16, 18, 18] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 1} answer:19 wait:0 req_id:1
+Statek 19: Opuszczam kanal nr: 2
+19:: permission:[13, 16, 18, 18] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 1} answer:19 wait:0 req_id:1
+19::  source:14, tag:ACK permission:[13, 16, 18, 18] messsge:{'request_id': 0, 'channel_id': 2}
+19:: permission:[13, 16, 19, 18] messsge:{'request_id': 0, 'channel_id': 2} answer:19 wait:0 req_id:0
+19::  source:15, tag:ACK permission:[13, 16, 19, 18] messsge:{'request_id': 0, 'channel_id': 3}
+19:: permission:[13, 16, 19, 19] messsge:{'request_id': 0, 'channel_id': 3} answer:19 wait:0 req_id:0
+19:: permission:[13, 16, 19, 19] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 1} answer:19 wait:0 req_id:1
+19::  source:16, tag:UNBLOCK permission:[13, 16, 19, 19] messsge:{'request_id': 0, 'channel_id': 1}
+19:: permission:[13, 19, 19, 19] messsge:{'request_id': 0, 'channel_id': 1} answer:19 wait:0 req_id:0
+19::  source:18, tag:UNBLOCK permission:[13, 19, 19, 19] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[16, 19, 19, 19] messsge:{'request_id': 0, 'channel_id': 0} answer:19 wait:0 req_id:0
+19::  source:17, tag:UNBLOCK permission:[16, 19, 19, 19] messsge:{'request_id': 0, 'channel_id': 0}
+19:: permission:[19, 19, 19, 19] messsge:{'request_id': 0, 'channel_id': 0} answer:19 wait:0 req_id:0
+19:: permission:[19, 19, 19, 19] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 1} answer:19 wait:0 req_id:1
+19:: permission:[19, 19, 19, 19] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 1} answer:19 wait:0 req_id:1
+19:: permission:[19, 19, 19, 19] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 1} answer:19 wait:0 req_id:1
+19:: permission:[19, 19, 19, 19] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 1} answer:19 wait:0 req_id:1
+19:: permission:[19, 19, 19, 19] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 2} answer:19 wait:0 req_id:2
+19:: permission:[19, 19, 19, 19] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 1} answer:19 wait:0 req_id:1
+19::  source:1, tag:ACK_ALL permission:[0, 0, 0, 0] messsge:{'request_id': 1}
+19:: permission:[1, 1, 1, 1] messsge:{'request_id': 1} answer:1 wait:0 req_id:1
+19::  source:10, tag:BLOCK permission:[1, 1, 1, 1] messsge:{'request_id': 1, 'channel_id': 0}
+19:: permission:[-1, 2, 2, 2] messsge:{'request_id': 1, 'channel_id': 0} answer:2 wait:0 req_id:1
+19::  source:16, tag:ACK_ALL permission:[-1, 2, 2, 2] messsge:{'request_id': 1}
+19:: permission:[0, 3, 3, 3] messsge:{'request_id': 1} answer:3 wait:0 req_id:1
+19::  source:0, tag:BLOCK permission:[0, 3, 3, 3] messsge:{'request_id': 1, 'channel_id': 2}
+19:: permission:[1, 4, 1, 4] messsge:{'request_id': 1, 'channel_id': 2} answer:4 wait:0 req_id:1
+19::  source:2, tag:ACK_ALL permission:[1, 4, 1, 4] messsge:{'request_id': 1}
+19:: permission:[2, 5, 2, 5] messsge:{'request_id': 1} answer:5 wait:0 req_id:1
+19::  source:7, tag:ACK_EXCEPT permission:[2, 5, 2, 5] messsge:{'request_id': 1, 'channel_id': 1}
+19:: permission:[3, 5, 3, 6] messsge:{'request_id': 1, 'channel_id': 1} answer:6 wait:0 req_id:1
+19::  source:17, tag:ACK_ALL permission:[3, 5, 3, 6] messsge:{'request_id': 1}
+19:: permission:[4, 6, 4, 7] messsge:{'request_id': 1} answer:7 wait:0 req_id:1
+19::  source:11, tag:ACK_EXCEPT permission:[4, 6, 4, 7] messsge:{'request_id': 1, 'channel_id': 1}
+19:: permission:[5, 6, 5, 8] messsge:{'request_id': 1, 'channel_id': 1} answer:8 wait:0 req_id:1
+19::  source:14, tag:ACK_ALL permission:[5, 6, 5, 8] messsge:{'request_id': 1}
+19:: permission:[6, 7, 6, 9] messsge:{'request_id': 1} answer:9 wait:0 req_id:1
+19::  source:3, tag:ACK_ALL permission:[6, 7, 6, 9] messsge:{'request_id': 1}
+19:: permission:[7, 8, 7, 10] messsge:{'request_id': 1} answer:10 wait:0 req_id:1
+19::  source:5, tag:BLOCK permission:[7, 8, 7, 10] messsge:{'request_id': 1, 'channel_id': 3}
+19:: permission:[8, 9, 8, 8] messsge:{'request_id': 1, 'channel_id': 3} answer:11 wait:0 req_id:1
+19::  source:12, tag:WAIT permission:[8, 9, 8, 8] messsge:{'request_id': 1}
+19:: permission:[8, 9, 8, 8] messsge:{'request_id': 1} answer:11 wait:1 req_id:1
+19::  source:6, tag:WAIT permission:[8, 9, 8, 8] messsge:{'request_id': 1}
+19:: permission:[8, 9, 8, 8] messsge:{'request_id': 1} answer:11 wait:2 req_id:1
+19::  source:18, tag:WAIT permission:[8, 9, 8, 8] messsge:{'request_id': 1}
+19:: permission:[8, 9, 8, 8] messsge:{'request_id': 1} answer:11 wait:3 req_id:1
+19::  source:7, tag:ACK permission:[8, 9, 8, 8] messsge:{'request_id': 1, 'channel_id': 1}
+19:: permission:[8, 10, 8, 8] messsge:{'request_id': 1, 'channel_id': 1} answer:11 wait:3 req_id:1
+19::  source:8, tag:ACK_EXCEPT permission:[8, 10, 8, 8] messsge:{'request_id': 1, 'channel_id': 1}
+19:: permission:[9, 10, 9, 9] messsge:{'request_id': 1, 'channel_id': 1} answer:12 wait:3 req_id:1
+19:: permission:[9, 10, 9, 9] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 1} answer:12 wait:3 req_id:1
+19::  source:11, tag:ACK permission:[9, 10, 9, 9] messsge:{'request_id': 1, 'channel_id': 1}
+19:: permission:[9, 11, 9, 9] messsge:{'request_id': 1, 'channel_id': 1} answer:12 wait:3 req_id:1
+19::  source:4, tag:ACK_EXCEPT permission:[9, 11, 9, 9] messsge:{'request_id': 1, 'channel_id': 1}
+19:: permission:[10, 11, 10, 10] messsge:{'request_id': 1, 'channel_id': 1} answer:13 wait:3 req_id:1
+19::  source:12, tag:BLOCK permission:[10, 11, 10, 10] messsge:{'request_id': 1, 'channel_id': 0}
+19:: permission:[8, 12, 11, 11] messsge:{'request_id': 1, 'channel_id': 0} answer:14 wait:3 req_id:1
+19::  source:12, tag:UNWAIT permission:[8, 12, 11, 11] messsge:{'request_id': 1}
+19:: permission:[8, 12, 11, 11] messsge:{'request_id': 1} answer:14 wait:2 req_id:1
+19:: permission:[8, 12, 11, 11] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 1} answer:14 wait:2 req_id:1
+19::  source:5, tag:UNBLOCK permission:[8, 12, 11, 11] messsge:{'request_id': 1, 'channel_id': 3}
+19:: permission:[8, 12, 11, 14] messsge:{'request_id': 1, 'channel_id': 3} answer:14 wait:2 req_id:1
+19::  source:13, tag:ACK_EXCEPT permission:[8, 12, 11, 14] messsge:{'request_id': 1, 'channel_id': 3}
+19:: permission:[9, 13, 12, 14] messsge:{'request_id': 1, 'channel_id': 3} answer:15 wait:2 req_id:1
+19::  source:15, tag:ACK_EXCEPT permission:[9, 13, 12, 14] messsge:{'request_id': 1, 'channel_id': 3}
+19:: permission:[10, 14, 13, 14] messsge:{'request_id': 1, 'channel_id': 3} answer:16 wait:2 req_id:1
+19:: permission:[10, 14, 13, 14] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 2} answer:16 wait:2 req_id:2
+19::  source:10, tag:UNBLOCK permission:[10, 14, 13, 14] messsge:{'request_id': 1, 'channel_id': 0}
+19:: permission:[13, 14, 13, 14] messsge:{'request_id': 1, 'channel_id': 0} answer:16 wait:2 req_id:1
+19:: permission:[13, 14, 13, 14] messsge:{'request_id': 1, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 1} answer:16 wait:2 req_id:1
+19::  source:0, tag:UNBLOCK permission:[13, 14, 13, 14] messsge:{'request_id': 1, 'channel_id': 2}
+19:: permission:[13, 14, 16, 14] messsge:{'request_id': 1, 'channel_id': 2} answer:16 wait:2 req_id:1
+19:: permission:[13, 14, 16, 14] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 2} answer:16 wait:2 req_id:2
+19:: permission:[13, 14, 16, 14] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 2} answer:16 wait:2 req_id:2
+19::  source:12, tag:UNBLOCK permission:[13, 14, 16, 14] messsge:{'request_id': 1, 'channel_id': 0}
+19:: permission:[16, 14, 16, 14] messsge:{'request_id': 1, 'channel_id': 0} answer:16 wait:2 req_id:1
+19:: permission:[16, 14, 16, 14] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 2} answer:16 wait:2 req_id:2
+19::  source:15, tag:ACK permission:[16, 14, 16, 14] messsge:{'request_id': 1, 'channel_id': 3}
+19:: permission:[16, 14, 16, 15] messsge:{'request_id': 1, 'channel_id': 3} answer:16 wait:2 req_id:1
+19:: permission:[16, 14, 16, 15] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 2} answer:16 wait:2 req_id:2
+19:: permission:[16, 14, 16, 15] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 2} answer:16 wait:2 req_id:2
+19:: permission:[16, 14, 16, 15] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 2} answer:16 wait:2 req_id:2
+19::  source:4, tag:ACK permission:[16, 14, 16, 15] messsge:{'request_id': 1, 'channel_id': 1}
+19:: permission:[16, 15, 16, 15] messsge:{'request_id': 1, 'channel_id': 1} answer:16 wait:2 req_id:1
+19::  source:8, tag:ACK permission:[16, 15, 16, 15] messsge:{'request_id': 1, 'channel_id': 1}
+19:: permission:[16, 16, 16, 15] messsge:{'request_id': 1, 'channel_id': 1} answer:16 wait:2 req_id:1
+19::  source:13, tag:ACK permission:[16, 16, 16, 15] messsge:{'request_id': 1, 'channel_id': 3}
+19:: permission:[16, 16, 16, 16] messsge:{'request_id': 1, 'channel_id': 3} answer:16 wait:2 req_id:1
+19:: permission:[16, 16, 16, 16] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 2} answer:16 wait:2 req_id:2
+19:: permission:[16, 16, 16, 16] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 2} answer:16 wait:2 req_id:2
+19:: permission:[16, 16, 16, 16] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_RIGHT_SIDE: 4>, 'state': <State.GATHER_AGREEMENTS_LEFT_SIDE: 5>, 'lamport': 2} answer:16 wait:2 req_id:2
+19:: permission:[16, 16, 16, 16] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 2} answer:16 wait:2 req_id:2
+19:: permission:[16, 16, 16, 16] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 2} answer:16 wait:2 req_id:2
+19:: permission:[16, 16, 16, 16] messsge:{'request_id': 2, 'direction': <State.SAIL_TO_LEFT_SIDE: 3>, 'state': <State.GATHER_AGREEMENTS_RIGHT_SIDE: 6>, 'lamport': 2} answer:16 wait:2 req_id:2

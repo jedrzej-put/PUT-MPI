@@ -1,0 +1,853 @@
+Statek 0: zacznam zbierac zgody po prawej stronie
+Statek 13: zacznam zbierac zgody po lewej stronie
+Statek 5: zacznam zbierac zgody po prawej stronie
+Statek 9: zacznam zbierac zgody po prawej stronie
+Statek 14: zacznam zbierac zgody po prawej stronie
+Statek 0 req_id:0: Plyne w lewa strone w kanale nr: 0
+Statek 2 req_id:0: Plyne w lewa strone w kanale nr: 2
+Statek 3 req_id:0: Plyne w prawa strone w kanale nr: 3
+Statek 1 req_id:0: Plyne w lewa strone w kanale nr: 1
+Statek 4 req_id:0: Plyne w lewa strone w kanale nr: 2
+Statek 2: Opuszczam kanal nr: 2
+Statek 2: Czekam po lewej stronie.
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po prawej stronie.
+Statek 5 req_id:0: Plyne w lewa strone w kanale nr: 2
+Statek 6 req_id:0: Plyne w lewa strone w kanale nr: 3
+Statek 0: Opuszczam kanal nr: 0
+Statek 0: Czekam po lewej stronie.
+Statek 1: Opuszczam kanal nr: 1
+Statek 1: Czekam po lewej stronie.
+Statek 4: Opuszczam kanal nr: 2
+Statek 4: Czekam po lewej stronie.
+Statek 7 req_id:0: Plyne w lewa strone w kanale nr: 3
+Statek 9 req_id:0: Plyne w lewa strone w kanale nr: 1
+Statek 8 req_id:0: Plyne w lewa strone w kanale nr: 0
+Statek 2: zacznam zbierac zgody po lewej stronie
+Statek 3: zacznam zbierac zgody po prawej stronie
+Statek 5: Opuszczam kanal nr: 2
+Statek 5: Czekam po lewej stronie.
+Statek 10 req_id:0: Plyne w prawa strone w kanale nr: 2
+Statek 0: zacznam zbierac zgody po lewej stronie
+Statek 1: zacznam zbierac zgody po lewej stronie
+Statek 4: zacznam zbierac zgody po lewej stronie
+Statek 6: Opuszczam kanal nr: 3
+Statek 6: Czekam po lewej stronie.
+Statek 11 req_id:0: Plyne w lewa strone w kanale nr: 3
+Statek 12 req_id:0: Plyne w prawa strone w kanale nr: 2
+Statek 7: Opuszczam kanal nr: 3
+Statek 9: Opuszczam kanal nr: 1
+Statek 7: Czekam po lewej stronie.
+Statek 9: Czekam po lewej stronie.
+Statek 13 req_id:0: Plyne w prawa strone w kanale nr: 1
+Statek 14 req_id:0: Plyne w lewa strone w kanale nr: 3
+Statek 8: Opuszczam kanal nr: 0
+Statek 8: Czekam po lewej stronie.
+Statek 5: zacznam zbierac zgody po lewej stronie
+Statek 10: Opuszczam kanal nr: 2
+Statek 10: Czekam po prawej stronie.
+Statek 6: zacznam zbierac zgody po lewej stronie
+Statek 11: Opuszczam kanal nr: 3
+Statek 12: Opuszczam kanal nr: 2
+Statek 11: Czekam po lewej stronie.
+Statek 12: Czekam po prawej stronie.
+Statek 7: zacznam zbierac zgody po lewej stronie
+Statek 9: zacznam zbierac zgody po lewej stronie
+Statek 13: Opuszczam kanal nr: 1
+Statek 13: Czekam po prawej stronie.
+Statek 8: zacznam zbierac zgody po lewej stronie
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po lewej stronie.
+Statek 0 req_id:1: Plyne w prawa strone w kanale nr: 0
+Statek 10: zacznam zbierac zgody po prawej stronie
+Statek 2 req_id:1: Plyne w prawa strone w kanale nr: 2
+Statek 3 req_id:1: Plyne w lewa strone w kanale nr: 3
+Statek 4 req_id:1: Plyne w prawa strone w kanale nr: 2
+Statek 1 req_id:1: Plyne w prawa strone w kanale nr: 1
+Statek 11: zacznam zbierac zgody po lewej stronie
+Statek 12: zacznam zbierac zgody po prawej stronie
+Statek 13: zacznam zbierac zgody po prawej stronie
+Statek 14: zacznam zbierac zgody po lewej stronie
+Statek 0: Opuszczam kanal nr: 0
+Statek 0: Czekam po prawej stronie.
+Statek 5 req_id:1: Plyne w prawa strone w kanale nr: 0
+Statek 2: Opuszczam kanal nr: 2
+Statek 6 req_id:1: Plyne w prawa strone w kanale nr: 2
+Statek 2: Czekam po prawej stronie.
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po lewej stronie.
+Statek 4: Opuszczam kanal nr: 2
+Statek 7 req_id:1: Plyne w prawa strone w kanale nr: 3
+Statek 4: Czekam po prawej stronie.
+Statek 1: Opuszczam kanal nr: 1
+Statek 1: Czekam po prawej stronie.
+Statek 8 req_id:1: Plyne w prawa strone w kanale nr: 3
+Statek 9 req_id:1: Plyne w prawa strone w kanale nr: 1
+Statek 0: zacznam zbierac zgody po prawej stronie
+Statek 5: Opuszczam kanal nr: 0
+Statek 5: Czekam po prawej stronie.
+Statek 10 req_id:1: Plyne w lewa strone w kanale nr: 0
+Statek 2: zacznam zbierac zgody po prawej stronie
+Statek 6: Opuszczam kanal nr: 2
+Statek 6: Czekam po prawej stronie.
+Statek 3: zacznam zbierac zgody po lewej stronie
+Statek 4: zacznam zbierac zgody po prawej stronie
+Statek 7: Opuszczam kanal nr: 3
+Statek 7: Czekam po prawej stronie.
+Statek 1: zacznam zbierac zgody po prawej stronie
+Statek 8: Opuszczam kanal nr: 3
+Statek 8: Czekam po prawej stronie.
+Statek 9: Opuszczam kanal nr: 1
+Statek 9: Czekam po prawej stronie.
+Statek 12 req_id:1: Plyne w lewa strone w kanale nr: 2
+Statek 13 req_id:1: Plyne w lewa strone w kanale nr: 2
+Statek 11 req_id:1: Plyne w prawa strone w kanale nr: 1
+Statek 14 req_id:1: Plyne w prawa strone w kanale nr: 3
+Statek 5: zacznam zbierac zgody po prawej stronie
+Statek 10: Opuszczam kanal nr: 0
+Statek 10: Czekam po lewej stronie.
+Statek 6: zacznam zbierac zgody po prawej stronie
+Statek 7: zacznam zbierac zgody po prawej stronie
+Statek 8: zacznam zbierac zgody po prawej stronie
+Statek 9: zacznam zbierac zgody po prawej stronie
+Statek 0 req_id:2: Plyne w lewa strone w kanale nr: 0
+Statek 12: Opuszczam kanal nr: 2
+Statek 12: Czekam po lewej stronie.
+Statek 13: Opuszczam kanal nr: 2
+Statek 13: Czekam po lewej stronie.
+Statek 11: Opuszczam kanal nr: 1
+Statek 11: Czekam po prawej stronie.
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po prawej stronie.
+Statek 10: zacznam zbierac zgody po lewej stronie
+Statek 1 req_id:2: Plyne w lewa strone w kanale nr: 1
+Statek 2 req_id:2: Plyne w lewa strone w kanale nr: 2
+Statek 4 req_id:2: Plyne w lewa strone w kanale nr: 2
+Statek 3 req_id:2: Plyne w prawa strone w kanale nr: 3
+Statek 0: Opuszczam kanal nr: 0
+Statek 0: Czekam po lewej stronie.
+Statek 12: zacznam zbierac zgody po lewej stronie
+Statek 13: zacznam zbierac zgody po lewej stronie
+Statek 11: zacznam zbierac zgody po prawej stronie
+Statek 14: zacznam zbierac zgody po prawej stronie
+Statek 5 req_id:2: Plyne w lewa strone w kanale nr: 0
+Statek 1: Opuszczam kanal nr: 1
+Statek 1: Czekam po lewej stronie.
+Statek 2: Opuszczam kanal nr: 2
+Statek 2: Czekam po lewej stronie.
+Statek 4: Opuszczam kanal nr: 2
+Statek 4: Czekam po lewej stronie.
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po prawej stronie.
+Statek 7 req_id:2: Plyne w lewa strone w kanale nr: 2
+Statek 8 req_id:2: Plyne w lewa strone w kanale nr: 2
+Statek 9 req_id:2: Plyne w lewa strone w kanale nr: 3
+Statek 6 req_id:2: Plyne w lewa strone w kanale nr: 1
+Statek 0: zacznam zbierac zgody po lewej stronie
+Statek 5: Opuszczam kanal nr: 0
+Statek 5: Czekam po lewej stronie.
+Statek 10 req_id:2: Plyne w prawa strone w kanale nr: 0
+Statek 1: zacznam zbierac zgody po lewej stronie
+Statek 2: zacznam zbierac zgody po lewej stronie
+Statek 4: zacznam zbierac zgody po lewej stronie
+Statek 3: zacznam zbierac zgody po prawej stronie
+Statek 11 req_id:2: Plyne w lewa strone w kanale nr: 3
+Statek 7: Opuszczam kanal nr: 2
+Statek 8: Opuszczam kanal nr: 2
+Statek 9: Opuszczam kanal nr: 3
+Statek 9: Czekam po lewej stronie.
+Statek 6: Opuszczam kanal nr: 1
+Statek 8: Czekam po lewej stronie.
+Statek 6: Czekam po lewej stronie.
+Statek 7: Czekam po lewej stronie.
+Statek 13 req_id:2: Plyne w prawa strone w kanale nr: 1
+Statek 14 req_id:2: Plyne w lewa strone w kanale nr: 3
+Statek 12 req_id:2: Plyne w prawa strone w kanale nr: 2
+Statek 5: zacznam zbierac zgody po lewej stronie
+Statek 10: Opuszczam kanal nr: 0
+Statek 10: Czekam po prawej stronie.
+Statek 11: Opuszczam kanal nr: 3
+Statek 11: Czekam po lewej stronie.
+Statek 9: zacznam zbierac zgody po lewej stronie
+Statek 8: zacznam zbierac zgody po lewej stronie
+Statek 7: zacznam zbierac zgody po lewej stronie
+Statek 6: zacznam zbierac zgody po lewej stronie
+Statek 13: Opuszczam kanal nr: 1
+Statek 13: Czekam po prawej stronie.
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po lewej stronie.
+Statek 0 req_id:3: Plyne w prawa strone w kanale nr: 0
+Statek 12: Opuszczam kanal nr: 2
+Statek 12: Czekam po prawej stronie.
+Statek 10: zacznam zbierac zgody po prawej stronie
+Statek 1 req_id:3: Plyne w prawa strone w kanale nr: 1
+Statek 4 req_id:3: Plyne w prawa strone w kanale nr: 2
+Statek 3 req_id:3: Plyne w lewa strone w kanale nr: 3
+Statek 11: zacznam zbierac zgody po lewej stronie
+Statek 2 req_id:3: Plyne w prawa strone w kanale nr: 2
+Statek 13: zacznam zbierac zgody po prawej stronie
+Statek 14: zacznam zbierac zgody po lewej stronie
+Statek 0: Opuszczam kanal nr: 0
+Statek 0: Czekam po prawej stronie.
+Statek 12: zacznam zbierac zgody po prawej stronie
+Statek 5 req_id:3: Plyne w prawa strone w kanale nr: 0
+Statek 1: Opuszczam kanal nr: 1
+Statek 1: Czekam po prawej stronie.
+Statek 6 req_id:3: Plyne w prawa strone w kanale nr: 1
+Statek 3: Opuszczam kanal nr: 3
+Statek 4: Opuszczam kanal nr: 2
+Statek 4: Czekam po prawej stronie.
+Statek 3: Czekam po lewej stronie.
+Statek 8 req_id:3: Plyne w prawa strone w kanale nr: 2
+Statek 7 req_id:3: Plyne w prawa strone w kanale nr: 3
+Statek 9 req_id:3: Plyne w prawa strone w kanale nr: 3
+Statek 2: Opuszczam kanal nr: 2
+Statek 2: Czekam po prawej stronie.
+Statek 0: zacznam zbierac zgody po prawej stronie
+Statek 5: Opuszczam kanal nr: 0
+Statek 5: Czekam po prawej stronie.
+Statek 10 req_id:3: Plyne w lewa strone w kanale nr: 0
+Statek 1: zacznam zbierac zgody po prawej stronie
+Statek 6: Opuszczam kanal nr: 1
+Statek 6: Czekam po prawej stronie.
+Statek 4: zacznam zbierac zgody po prawej stronie
+Statek 3: zacznam zbierac zgody po lewej stronie
+Statek 8: Opuszczam kanal nr: 2
+Statek 8: Czekam po prawej stronie.
+Statek 7: Opuszczam kanal nr: 3
+Statek 7: Czekam po prawej stronie.
+Statek 9: Opuszczam kanal nr: 3
+Statek 9: Czekam po prawej stronie.
+Statek 2: zacznam zbierac zgody po prawej stronie
+Statek 12 req_id:3: Plyne w lewa strone w kanale nr: 2
+Statek 11 req_id:3: Plyne w prawa strone w kanale nr: 1
+Statek 13 req_id:3: Plyne w lewa strone w kanale nr: 2
+Statek 14 req_id:3: Plyne w prawa strone w kanale nr: 3
+Statek 5: zacznam zbierac zgody po prawej stronie
+Statek 10: Opuszczam kanal nr: 0
+Statek 10: Czekam po lewej stronie.
+Statek 6: zacznam zbierac zgody po prawej stronie
+Statek 8: zacznam zbierac zgody po prawej stronie
+Statek 7: zacznam zbierac zgody po prawej stronie
+Statek 9: zacznam zbierac zgody po prawej stronie
+Statek 0 req_id:4: Plyne w lewa strone w kanale nr: 0
+Statek 12: Opuszczam kanal nr: 2
+Statek 12: Czekam po lewej stronie.
+Statek 11: Opuszczam kanal nr: 1
+Statek 13: Opuszczam kanal nr: 2
+Statek 11: Czekam po prawej stronie.
+Statek 13: Czekam po lewej stronie.
+Statek 10: zacznam zbierac zgody po lewej stronie
+Statek 2 req_id:4: Plyne w lewa strone w kanale nr: 2
+Statek 1 req_id:4: Plyne w lewa strone w kanale nr: 1
+Statek 4 req_id:4: Plyne w lewa strone w kanale nr: 2
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po prawej stronie.
+Statek 3 req_id:4: Plyne w prawa strone w kanale nr: 3
+Statek 0: Opuszczam kanal nr: 0
+Statek 0: Czekam po lewej stronie.
+Statek 12: zacznam zbierac zgody po lewej stronie
+Statek 11: zacznam zbierac zgody po prawej stronie
+Statek 13: zacznam zbierac zgody po lewej stronie
+Statek 2: Opuszczam kanal nr: 2
+Statek 2: Czekam po lewej stronie.
+Statek 1: Opuszczam kanal nr: 1
+Statek 1: Czekam po lewej stronie.
+Statek 4: Opuszczam kanal nr: 2
+Statek 4: Czekam po lewej stronie.
+Statek 14: zacznam zbierac zgody po prawej stronie
+Statek 5 req_id:4: Plyne w lewa strone w kanale nr: 0
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po prawej stronie.
+Statek 7 req_id:4: Plyne w lewa strone w kanale nr: 2
+Statek 8 req_id:4: Plyne w lewa strone w kanale nr: 2
+Statek 9 req_id:4: Plyne w lewa strone w kanale nr: 3
+Statek 6 req_id:4: Plyne w lewa strone w kanale nr: 1
+Statek 0: zacznam zbierac zgody po lewej stronie
+Statek 2: zacznam zbierac zgody po lewej stronie
+Statek 1: zacznam zbierac zgody po lewej stronie
+Statek 4: zacznam zbierac zgody po lewej stronie
+Statek 5: Opuszczam kanal nr: 0
+Statek 10 req_id:4: Plyne w prawa strone w kanale nr: 0
+Statek 3: zacznam zbierac zgody po prawej stronie
+Statek 5: Czekam po lewej stronie.
+Statek 11 req_id:4: Plyne w lewa strone w kanale nr: 3
+Statek 7: Opuszczam kanal nr: 2
+Statek 7: Czekam po lewej stronie.
+Statek 8: Opuszczam kanal nr: 2
+Statek 9: Opuszczam kanal nr: 3
+Statek 9: Czekam po lewej stronie.
+Statek 8: Czekam po lewej stronie.
+Statek 12 req_id:4: Plyne w prawa strone w kanale nr: 2
+Statek 13 req_id:4: Plyne w prawa strone w kanale nr: 2
+Statek 6: Opuszczam kanal nr: 1
+Statek 6: Czekam po lewej stronie.
+Statek 14 req_id:4: Plyne w lewa strone w kanale nr: 3
+Statek 10: Opuszczam kanal nr: 0
+Statek 10: Czekam po prawej stronie.
+Statek 5: zacznam zbierac zgody po lewej stronie
+Statek 7: zacznam zbierac zgody po lewej stronie
+Statek 9: zacznam zbierac zgody po lewej stronie
+Statek 8: zacznam zbierac zgody po lewej stronie
+Statek 11: Opuszczam kanal nr: 3
+Statek 12: Opuszczam kanal nr: 2
+Statek 12: Czekam po prawej stronie.
+Statek 11: Czekam po lewej stronie.
+Statek 13: Opuszczam kanal nr: 2
+Statek 13: Czekam po prawej stronie.
+Statek 6: zacznam zbierac zgody po lewej stronie
+Statek 0 req_id:5: Plyne w prawa strone w kanale nr: 0
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po lewej stronie.
+Statek 1 req_id:5: Plyne w prawa strone w kanale nr: 1
+Statek 2 req_id:5: Plyne w prawa strone w kanale nr: 2
+Statek 10: zacznam zbierac zgody po prawej stronie
+Statek 3 req_id:5: Plyne w lewa strone w kanale nr: 3
+Statek 12: zacznam zbierac zgody po prawej stronie
+Statek 13: zacznam zbierac zgody po prawej stronie
+Statek 11: zacznam zbierac zgody po lewej stronie
+Statek 0: Opuszczam kanal nr: 0
+Statek 0: Czekam po prawej stronie.
+Statek 14: zacznam zbierac zgody po lewej stronie
+Statek 1: Opuszczam kanal nr: 1
+Statek 1: Czekam po prawej stronie.
+Statek 2: Opuszczam kanal nr: 2
+Statek 2: Czekam po prawej stronie.
+Statek 5 req_id:5: Plyne w prawa strone w kanale nr: 0
+Statek 6 req_id:5: Plyne w prawa strone w kanale nr: 1
+Statek 7 req_id:5: Plyne w prawa strone w kanale nr: 2
+Statek 4 req_id:5: Plyne w prawa strone w kanale nr: 2
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po lewej stronie.
+Statek 8 req_id:5: Plyne w prawa strone w kanale nr: 3
+Statek 9 req_id:5: Plyne w prawa strone w kanale nr: 3
+Statek 0: zacznam zbierac zgody po prawej stronie
+Statek 1: zacznam zbierac zgody po prawej stronie
+Statek 2: zacznam zbierac zgody po prawej stronie
+Statek 5: Opuszczam kanal nr: 0
+Statek 5: Czekam po prawej stronie.
+Statek 6: Opuszczam kanal nr: 1
+Statek 6: Czekam po prawej stronie.
+Statek 7: Opuszczam kanal nr: 2
+Statek 7: Czekam po prawej stronie.
+Statek 4: Opuszczam kanal nr: 2
+Statek 4: Czekam po prawej stronie.
+Statek 10 req_id:5: Plyne w lewa strone w kanale nr: 0
+Statek 3: zacznam zbierac zgody po lewej stronie
+Statek 8: Opuszczam kanal nr: 3
+Statek 8: Czekam po prawej stronie.
+Statek 9: Opuszczam kanal nr: 3
+Statek 9: Czekam po prawej stronie.
+Statek 5: zacznam zbierac zgody po prawej stronie
+Statek 6: zacznam zbierac zgody po prawej stronie
+Statek 7: zacznam zbierac zgody po prawej stronie
+Statek 4: zacznam zbierac zgody po prawej stronie
+Statek 11 req_id:5: Plyne w prawa strone w kanale nr: 1
+Statek 10: Opuszczam kanal nr: 0
+Statek 10: Czekam po lewej stronie.
+Statek 12 req_id:5: Plyne w lewa strone w kanale nr: 0
+Statek 13 req_id:5: Plyne w lewa strone w kanale nr: 2
+Statek 14 req_id:5: Plyne w prawa strone w kanale nr: 3
+Statek 8: zacznam zbierac zgody po prawej stronie
+Statek 9: zacznam zbierac zgody po prawej stronie
+Statek 0 req_id:6: Plyne w lewa strone w kanale nr: 2
+Statek 11: Opuszczam kanal nr: 1
+Statek 11: Czekam po prawej stronie.
+Statek 10: zacznam zbierac zgody po lewej stronie
+Statek 1 req_id:6: Plyne w lewa strone w kanale nr: 1
+Statek 12: Opuszczam kanal nr: 0
+Statek 13: Opuszczam kanal nr: 2
+Statek 12: Czekam po lewej stronie.
+Statek 2 req_id:6: Plyne w lewa strone w kanale nr: 0
+Statek 13: Czekam po lewej stronie.
+Statek 4 req_id:6: Plyne w lewa strone w kanale nr: 2
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po prawej stronie.
+Statek 3 req_id:6: Plyne w prawa strone w kanale nr: 3
+Statek 0: Opuszczam kanal nr: 2
+Statek 0: Czekam po lewej stronie.
+Statek 5 req_id:6: Plyne w lewa strone w kanale nr: 2
+Statek 11: zacznam zbierac zgody po prawej stronie
+Statek 1: Opuszczam kanal nr: 1
+Statek 6 req_id:6: Plyne w lewa strone w kanale nr: 1
+Statek 1: Czekam po lewej stronie.
+Statek 12: zacznam zbierac zgody po lewej stronie
+Statek 13: zacznam zbierac zgody po lewej stronie
+Statek 2: Opuszczam kanal nr: 0
+Statek 2: Czekam po lewej stronie.
+Statek 4: Opuszczam kanal nr: 2
+Statek 14: zacznam zbierac zgody po prawej stronie
+Statek 4: Czekam po lewej stronie.
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po prawej stronie.
+Statek 7 req_id:6: Plyne w lewa strone w kanale nr: 0
+Statek 9 req_id:6: Plyne w lewa strone w kanale nr: 3
+Statek 8 req_id:6: Plyne w lewa strone w kanale nr: 2
+Statek 0: zacznam zbierac zgody po lewej stronie
+Statek 5: Opuszczam kanal nr: 2
+Statek 5: Czekam po lewej stronie.
+Statek 1: zacznam zbierac zgody po lewej stronie
+Statek 6: Opuszczam kanal nr: 1
+Statek 6: Czekam po lewej stronie.
+Statek 10 req_id:6: Plyne w prawa strone w kanale nr: 1
+Statek 2: zacznam zbierac zgody po lewej stronie
+Statek 4: zacznam zbierac zgody po lewej stronie
+Statek 3: zacznam zbierac zgody po prawej stronie
+Statek 7: Opuszczam kanal nr: 0
+Statek 7: Czekam po lewej stronie.
+Statek 9: Opuszczam kanal nr: 3
+Statek 9: Czekam po lewej stronie.
+Statek 8: Opuszczam kanal nr: 2
+Statek 8: Czekam po lewej stronie.
+Statek 5: zacznam zbierac zgody po lewej stronie
+Statek 11 req_id:6: Plyne w lewa strone w kanale nr: 0
+Statek 6: zacznam zbierac zgody po lewej stronie
+Statek 10: Opuszczam kanal nr: 1
+Statek 10: Czekam po prawej stronie.
+Statek 13 req_id:6: Plyne w prawa strone w kanale nr: 1
+Statek 12 req_id:6: Plyne w prawa strone w kanale nr: 2
+Statek 7: zacznam zbierac zgody po lewej stronie
+Statek 14 req_id:6: Plyne w lewa strone w kanale nr: 3
+Statek 9: zacznam zbierac zgody po lewej stronie
+Statek 8: zacznam zbierac zgody po lewej stronie
+Statek 0 req_id:7: Plyne w prawa strone w kanale nr: 2
+Statek 11: Opuszczam kanal nr: 0
+Statek 11: Czekam po lewej stronie.
+Statek 1 req_id:7: Plyne w prawa strone w kanale nr: 0
+Statek 10: zacznam zbierac zgody po prawej stronie
+Statek 13: Opuszczam kanal nr: 1
+Statek 13: Czekam po prawej stronie.
+Statek 12: Opuszczam kanal nr: 2
+Statek 12: Czekam po prawej stronie.
+Statek 3 req_id:7: Plyne w lewa strone w kanale nr: 1
+Statek 2 req_id:7: Plyne w prawa strone w kanale nr: 2
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po lewej stronie.
+Statek 4 req_id:7: Plyne w prawa strone w kanale nr: 3
+Statek 5 req_id:7: Plyne w prawa strone w kanale nr: 3
+Statek 0: Opuszczam kanal nr: 2
+Statek 0: Czekam po prawej stronie.
+Statek 11: zacznam zbierac zgody po lewej stronie
+Statek 1: Opuszczam kanal nr: 0
+Statek 1: Czekam po prawej stronie.
+Statek 6 req_id:7: Plyne w prawa strone w kanale nr: 0
+Statek 13: zacznam zbierac zgody po prawej stronie
+Statek 12: zacznam zbierac zgody po prawej stronie
+Statek 3: Opuszczam kanal nr: 1
+Statek 3: Czekam po lewej stronie.
+Statek 2: Opuszczam kanal nr: 2
+Statek 2: Czekam po prawej stronie.
+Statek 7 req_id:7: Plyne w prawa strone w kanale nr: 2
+Statek 14: zacznam zbierac zgody po lewej stronie
+Statek 8 req_id:7: Plyne w prawa strone w kanale nr: 1
+Statek 9 req_id:7: Plyne w prawa strone w kanale nr: 2
+Statek 4: Opuszczam kanal nr: 3
+Statek 5: Opuszczam kanal nr: 3
+Statek 4: Czekam po prawej stronie.
+Statek 5: Czekam po prawej stronie.
+Statek 0: zacznam zbierac zgody po prawej stronie
+Statek 1: zacznam zbierac zgody po prawej stronie
+Statek 10 req_id:7: Plyne w lewa strone w kanale nr: 3
+Statek 6: Opuszczam kanal nr: 0
+Statek 6: Czekam po prawej stronie.
+Statek 3: zacznam zbierac zgody po lewej stronie
+Statek 2: zacznam zbierac zgody po prawej stronie
+Statek 7: Opuszczam kanal nr: 2
+Statek 7: Czekam po prawej stronie.
+Statek 8: Opuszczam kanal nr: 1
+Statek 9: Opuszczam kanal nr: 2
+Statek 8: Czekam po prawej stronie.
+Statek 9: Czekam po prawej stronie.
+Statek 4: zacznam zbierac zgody po prawej stronie
+Statek 5: zacznam zbierac zgody po prawej stronie
+Statek 11 req_id:7: Plyne w prawa strone w kanale nr: 0
+Statek 10: Opuszczam kanal nr: 3
+Statek 10: Czekam po lewej stronie.
+Statek 6: zacznam zbierac zgody po prawej stronie
+Statek 13 req_id:7: Plyne w lewa strone w kanale nr: 2
+Statek 12 req_id:7: Plyne w lewa strone w kanale nr: 1
+Statek 7: zacznam zbierac zgody po prawej stronie
+Statek 14 req_id:7: Plyne w prawa strone w kanale nr: 3
+Statek 8: zacznam zbierac zgody po prawej stronie
+Statek 9: zacznam zbierac zgody po prawej stronie
+Statek 0 req_id:8: Plyne w lewa strone w kanale nr: 2
+Statek 11: Opuszczam kanal nr: 0
+Statek 11: Czekam po prawej stronie.
+Statek 1 req_id:8: Plyne w lewa strone w kanale nr: 0
+Statek 10: zacznam zbierac zgody po lewej stronie
+Statek 13: Opuszczam kanal nr: 2
+Statek 13: Czekam po lewej stronie.
+Statek 2 req_id:8: Plyne w lewa strone w kanale nr: 2
+Statek 12: Opuszczam kanal nr: 1
+Statek 12: Czekam po lewej stronie.
+Statek 3 req_id:8: Plyne w prawa strone w kanale nr: 3
+Statek 4 req_id:8: Plyne w lewa strone w kanale nr: 1
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po prawej stronie.
+Statek 0: Opuszczam kanal nr: 2
+Statek 0: Czekam po lewej stronie.
+Statek 5 req_id:8: Plyne w lewa strone w kanale nr: 2
+Statek 11: zacznam zbierac zgody po prawej stronie
+Statek 1: Opuszczam kanal nr: 0
+Statek 1: Czekam po lewej stronie.
+Statek 6 req_id:8: Plyne w lewa strone w kanale nr: 0
+Statek 13: zacznam zbierac zgody po lewej stronie
+Statek 2: Opuszczam kanal nr: 2
+Statek 12: zacznam zbierac zgody po lewej stronie
+Statek 4: Opuszczam kanal nr: 1
+Statek 4: Czekam po lewej stronie.
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po prawej stronie.
+Statek 7 req_id:8: Plyne w lewa strone w kanale nr: 2
+Statek 2: Czekam po lewej stronie.
+Statek 14: zacznam zbierac zgody po prawej stronie
+Statek 8 req_id:8: Plyne w lewa strone w kanale nr: 1
+Statek 0: zacznam zbierac zgody po lewej stronie
+Statek 5: Opuszczam kanal nr: 2
+Statek 5: Czekam po lewej stronie.
+Statek 9 req_id:8: Plyne w lewa strone w kanale nr: 3
+Statek 1: zacznam zbierac zgody po lewej stronie
+Statek 6: Opuszczam kanal nr: 0
+Statek 6: Czekam po lewej stronie.
+Statek 10 req_id:8: Plyne w prawa strone w kanale nr: 0
+Statek 4: zacznam zbierac zgody po lewej stronie
+Statek 3: zacznam zbierac zgody po prawej stronie
+Statek 2: zacznam zbierac zgody po lewej stronie
+Statek 7: Opuszczam kanal nr: 2
+Statek 7: Czekam po lewej stronie.
+Statek 8: Opuszczam kanal nr: 1
+Statek 8: Czekam po lewej stronie.
+Statek 5: zacznam zbierac zgody po lewej stronie
+Statek 11 req_id:8: Plyne w lewa strone w kanale nr: 1
+Statek 9: Opuszczam kanal nr: 3
+Statek 9: Czekam po lewej stronie.
+Statek 6: zacznam zbierac zgody po lewej stronie
+Statek 10: Opuszczam kanal nr: 0
+Statek 10: Czekam po prawej stronie.
+Statek 12 req_id:8: Plyne w prawa strone w kanale nr: 2
+Statek 13 req_id:8: Plyne w prawa strone w kanale nr: 0
+Statek 7: zacznam zbierac zgody po lewej stronie
+Statek 14 req_id:8: Plyne w lewa strone w kanale nr: 3
+Statek 8: zacznam zbierac zgody po lewej stronie
+Statek 11: Opuszczam kanal nr: 1
+Statek 11: Czekam po lewej stronie.
+Statek 9: zacznam zbierac zgody po lewej stronie
+Statek 0 req_id:9: Plyne w prawa strone w kanale nr: 1
+Statek 1 req_id:9: Plyne w prawa strone w kanale nr: 2
+Statek 10: zacznam zbierac zgody po prawej stronie
+Statek 12: Opuszczam kanal nr: 2
+Statek 2 req_id:9: Plyne w prawa strone w kanale nr: 2
+Statek 13: Opuszczam kanal nr: 0
+Statek 13: Czekam po prawej stronie.
+Statek 12: Czekam po prawej stronie.
+Statek 3 req_id:9: Plyne w lewa strone w kanale nr: 3
+Statek 4 req_id:9: Plyne w prawa strone w kanale nr: 0
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po lewej stronie.
+Statek 11: zacznam zbierac zgody po lewej stronie
+Statek 0: Opuszczam kanal nr: 1
+Statek 5 req_id:9: Plyne w prawa strone w kanale nr: 1
+Statek 0: Czekam po prawej stronie.
+Statek 1: Opuszczam kanal nr: 2
+Statek 1: Czekam po prawej stronie.
+Statek 6 req_id:9: Plyne w prawa strone w kanale nr: 2
+Statek 2: Opuszczam kanal nr: 2
+Statek 2: Czekam po prawej stronie.
+Statek 13: zacznam zbierac zgody po prawej stronie
+Statek 12: zacznam zbierac zgody po prawej stronie
+Statek 7 req_id:9: Plyne w prawa strone w kanale nr: 2
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po lewej stronie.
+Statek 4: Opuszczam kanal nr: 0
+Statek 4: Czekam po prawej stronie.
+Statek 14: zacznam zbierac zgody po lewej stronie
+Statek 8 req_id:9: Plyne w prawa strone w kanale nr: 0
+Statek 9 req_id:9: Plyne w prawa strone w kanale nr: 3
+Statek 0: zacznam zbierac zgody po prawej stronie
+Statek 5: Opuszczam kanal nr: 1
+Statek 5: Czekam po prawej stronie.
+Statek 1: zacznam zbierac zgody po prawej stronie
+Statek 6: Opuszczam kanal nr: 2
+Statek 6: Czekam po prawej stronie.
+Statek 10 req_id:9: Plyne w lewa strone w kanale nr: 1
+Statek 2: zacznam zbierac zgody po prawej stronie
+Statek 7: Opuszczam kanal nr: 2
+Statek 7: Czekam po prawej stronie.
+Statek 3: zacznam zbierac zgody po lewej stronie
+Statek 4: zacznam zbierac zgody po prawej stronie
+Statek 11 req_id:9: Plyne w prawa strone w kanale nr: 2
+Statek 8: Opuszczam kanal nr: 0
+Statek 9: Opuszczam kanal nr: 3
+Statek 8: Czekam po prawej stronie.
+Statek 9: Czekam po prawej stronie.
+Statek 5: zacznam zbierac zgody po prawej stronie
+Statek 6: zacznam zbierac zgody po prawej stronie
+Statek 13 req_id:9: Plyne w lewa strone w kanale nr: 3
+Statek 10: Opuszczam kanal nr: 1
+Statek 12 req_id:9: Plyne w lewa strone w kanale nr: 0
+Statek 10: Czekam po lewej stronie.
+Statek 7: zacznam zbierac zgody po prawej stronie
+Statek 14 req_id:9: Plyne w prawa strone w kanale nr: 1
+Statek 11: Opuszczam kanal nr: 2
+Statek 11: Czekam po prawej stronie.
+Statek 8: zacznam zbierac zgody po prawej stronie
+Statek 9: zacznam zbierac zgody po prawej stronie
+Statek 0 req_id:10: Plyne w lewa strone w kanale nr: 2
+Statek 1 req_id:10: Plyne w lewa strone w kanale nr: 2
+Statek 13: Opuszczam kanal nr: 3
+Statek 13: Czekam po lewej stronie.
+Statek 10: zacznam zbierac zgody po lewej stronie
+Statek 12: Opuszczam kanal nr: 0
+Statek 12: Czekam po lewej stronie.
+Statek 2 req_id:10: Plyne w lewa strone w kanale nr: 0
+Statek 3 req_id:10: Plyne w prawa strone w kanale nr: 3
+Statek 14: Opuszczam kanal nr: 1
+Statek 14: Czekam po prawej stronie.
+Statek 4 req_id:10: Plyne w lewa strone w kanale nr: 1
+Statek 11: zacznam zbierac zgody po prawej stronie
+Statek 0: Opuszczam kanal nr: 2
+Statek 0: Czekam po lewej stronie.
+Statek 5 req_id:10: Plyne w lewa strone w kanale nr: 2
+Statek 1: Opuszczam kanal nr: 2
+Statek 1: Czekam po lewej stronie.
+Statek 6 req_id:10: Plyne w lewa strone w kanale nr: 2
+Statek 13: zacznam zbierac zgody po lewej stronie
+Statek 12: zacznam zbierac zgody po lewej stronie
+Statek 2: Opuszczam kanal nr: 0
+Statek 2: Czekam po lewej stronie.
+Statek 7 req_id:10: Plyne w lewa strone w kanale nr: 0
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po prawej stronie.
+Statek 14: zacznam zbierac zgody po prawej stronie
+Statek 4: Opuszczam kanal nr: 1
+Statek 4: Czekam po lewej stronie.
+Statek 9 req_id:10: Plyne w lewa strone w kanale nr: 1
+Statek 8 req_id:10: Plyne w lewa strone w kanale nr: 3
+Statek 0: zacznam zbierac zgody po lewej stronie
+Statek 5: Opuszczam kanal nr: 2
+Statek 5: Czekam po lewej stronie.
+Statek 1: zacznam zbierac zgody po lewej stronie
+Statek 6: Opuszczam kanal nr: 2
+Statek 6: Czekam po lewej stronie.
+Statek 10 req_id:10: Plyne w prawa strone w kanale nr: 2
+Statek 2: zacznam zbierac zgody po lewej stronie
+Statek 7: Opuszczam kanal nr: 0
+Statek 7: Czekam po lewej stronie.
+Statek 3: zacznam zbierac zgody po prawej stronie
+Statek 4: zacznam zbierac zgody po lewej stronie
+Statek 9: Opuszczam kanal nr: 1
+Statek 9: Czekam po lewej stronie.
+Statek 8: Opuszczam kanal nr: 3
+Statek 8: Czekam po lewej stronie.
+Statek 11 req_id:10: Plyne w lewa strone w kanale nr: 0
+Statek 5: zacznam zbierac zgody po lewej stronie
+Statek 6: zacznam zbierac zgody po lewej stronie
+Statek 10: Opuszczam kanal nr: 2
+Statek 10: Czekam po prawej stronie.
+Statek 12 req_id:10: Plyne w prawa strone w kanale nr: 1
+Statek 13 req_id:10: Plyne w prawa strone w kanale nr: 2
+Statek 7: zacznam zbierac zgody po lewej stronie
+Statek 14 req_id:10: Plyne w lewa strone w kanale nr: 3
+Statek 9: zacznam zbierac zgody po lewej stronie
+Statek 8: zacznam zbierac zgody po lewej stronie
+Statek 11: Opuszczam kanal nr: 0
+Statek 11: Czekam po lewej stronie.
+Statek 0 req_id:11: Plyne w prawa strone w kanale nr: 2
+Statek 1 req_id:11: Plyne w prawa strone w kanale nr: 0
+Statek 10: zacznam zbierac zgody po prawej stronie
+Statek 12: Opuszczam kanal nr: 1
+Statek 12: Czekam po prawej stronie.
+Statek 3 req_id:11: Plyne w lewa strone w kanale nr: 3
+Statek 2 req_id:11: Plyne w prawa strone w kanale nr: 1
+Statek 13: Opuszczam kanal nr: 2
+Statek 13: Czekam po prawej stronie.
+Statek 4 req_id:11: Plyne w prawa strone w kanale nr: 2
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po lewej stronie.
+Statek 11: zacznam zbierac zgody po lewej stronie
+Statek 0: Opuszczam kanal nr: 2
+Statek 0: Czekam po prawej stronie.
+Statek 5 req_id:11: Plyne w prawa strone w kanale nr: 2
+Statek 1: Opuszczam kanal nr: 0
+Statek 1: Czekam po prawej stronie.
+Statek 6 req_id:11: Plyne w prawa strone w kanale nr: 0
+Statek 12: zacznam zbierac zgody po prawej stronie
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po lewej stronie.
+Statek 13: zacznam zbierac zgody po prawej stronie
+Statek 2: Opuszczam kanal nr: 1
+Statek 2: Czekam po prawej stronie.
+Statek 7 req_id:11: Plyne w prawa strone w kanale nr: 3
+Statek 4: Opuszczam kanal nr: 2
+Statek 4: Czekam po prawej stronie.
+Statek 14: zacznam zbierac zgody po lewej stronie
+Statek 9 req_id:11: Plyne w prawa strone w kanale nr: 2
+Statek 8 req_id:11: Plyne w prawa strone w kanale nr: 1
+Statek 0: zacznam zbierac zgody po prawej stronie
+Statek 5: Opuszczam kanal nr: 2
+Statek 5: Czekam po prawej stronie.
+Statek 1: zacznam zbierac zgody po prawej stronie
+Statek 6: Opuszczam kanal nr: 0
+Statek 6: Czekam po prawej stronie.
+Statek 10 req_id:11: Plyne w lewa strone w kanale nr: 0
+Statek 3: zacznam zbierac zgody po lewej stronie
+Statek 2: zacznam zbierac zgody po prawej stronie
+Statek 7: Opuszczam kanal nr: 3
+Statek 7: Czekam po prawej stronie.
+Statek 4: zacznam zbierac zgody po prawej stronie
+Statek 11 req_id:11: Plyne w prawa strone w kanale nr: 2
+Statek 9: Opuszczam kanal nr: 2
+Statek 9: Czekam po prawej stronie.
+Statek 8: Opuszczam kanal nr: 1
+Statek 8: Czekam po prawej stronie.
+Statek 5: zacznam zbierac zgody po prawej stronie
+Statek 6: zacznam zbierac zgody po prawej stronie
+Statek 12 req_id:11: Plyne w lewa strone w kanale nr: 1
+Statek 10: Opuszczam kanal nr: 0
+Statek 10: Czekam po lewej stronie.
+Statek 13 req_id:11: Plyne w lewa strone w kanale nr: 3
+Statek 7: zacznam zbierac zgody po prawej stronie
+Statek 14 req_id:11: Plyne w prawa strone w kanale nr: 0
+Statek 11: Opuszczam kanal nr: 2
+Statek 11: Czekam po prawej stronie.
+Statek 9: zacznam zbierac zgody po prawej stronie
+Statek 8: zacznam zbierac zgody po prawej stronie
+Statek 0 req_id:12: Plyne w lewa strone w kanale nr: 2
+Statek 1 req_id:12: Plyne w lewa strone w kanale nr: 2
+Statek 12: Opuszczam kanal nr: 1
+Statek 10: zacznam zbierac zgody po lewej stronie
+Statek 12: Czekam po lewej stronie.
+Statek 2 req_id:12: Plyne w lewa strone w kanale nr: 1
+Statek 13: Opuszczam kanal nr: 3
+Statek 13: Czekam po lewej stronie.
+Statek 3 req_id:12: Plyne w prawa strone w kanale nr: 3
+Statek 14: Opuszczam kanal nr: 0
+Statek 14: Czekam po prawej stronie.
+Statek 11: zacznam zbierac zgody po prawej stronie
+Statek 4 req_id:12: Plyne w lewa strone w kanale nr: 0
+Statek 0: Opuszczam kanal nr: 2
+Statek 0: Czekam po lewej stronie.
+Statek 5 req_id:12: Plyne w lewa strone w kanale nr: 2
+Statek 1: Opuszczam kanal nr: 2
+Statek 1: Czekam po lewej stronie.
+Statek 6 req_id:12: Plyne w lewa strone w kanale nr: 2
+Statek 12: zacznam zbierac zgody po lewej stronie
+Statek 2: Opuszczam kanal nr: 1
+Statek 13: zacznam zbierac zgody po lewej stronie
+Statek 2: Czekam po lewej stronie.
+Statek 3: Opuszczam kanal nr: 3
+Statek 3: Czekam po prawej stronie.
+Statek 7 req_id:12: Plyne w lewa strone w kanale nr: 1
+Statek 14: zacznam zbierac zgody po prawej stronie
+Statek 8 req_id:12: Plyne w lewa strone w kanale nr: 3
+Statek 9 req_id:12: Plyne w lewa strone w kanale nr: 3
+Statek 4: Opuszczam kanal nr: 0
+Statek 4: Czekam po lewej stronie.
+Statek 0: zacznam zbierac zgody po lewej stronie
+Statek 5: Opuszczam kanal nr: 2
+Statek 5: Czekam po lewej stronie.
+Statek 1: zacznam zbierac zgody po lewej stronie
+Statek 6: Opuszczam kanal nr: 2
+Statek 6: Czekam po lewej stronie.
+Statek 10 req_id:12: Plyne w prawa strone w kanale nr: 0
+Statek 2: zacznam zbierac zgody po lewej stronie
+Statek 3: zacznam zbierac zgody po prawej stronie
+Statek 7: Opuszczam kanal nr: 1
+Statek 7: Czekam po lewej stronie.
+Statek 8: Opuszczam kanal nr: 3
+Statek 8: Czekam po lewej stronie.
+Statek 9: Opuszczam kanal nr: 3
+Statek 9: Czekam po lewej stronie.
+Statek 4: zacznam zbierac zgody po lewej stronie
+Statek 11 req_id:12: Plyne w lewa strone w kanale nr: 1
+Statek 5: zacznam zbierac zgody po lewej stronie
+Statek 6: zacznam zbierac zgody po lewej stronie
+Statek 12 req_id:12: Plyne w prawa strone w kanale nr: 2
+Statek 13 req_id:12: Plyne w prawa strone w kanale nr: 2
+Statek 10: Opuszczam kanal nr: 0
+Statek 10: Czekam po prawej stronie.
+Statek 7: zacznam zbierac zgody po lewej stronie
+Statek 14 req_id:12: Plyne w lewa strone w kanale nr: 0
+Statek 8: zacznam zbierac zgody po lewej stronie
+Statek 9: zacznam zbierac zgody po lewej stronie
+Statek 0 req_id:13: Plyne w prawa strone w kanale nr: 3
+Statek 11: Opuszczam kanal nr: 1
+Statek 11: Czekam po lewej stronie.
+Statek 1 req_id:13: Plyne w prawa strone w kanale nr: 3
+Statek 12: Opuszczam kanal nr: 2
+Statek 13: Opuszczam kanal nr: 2
+Statek 13: Czekam po prawej stronie.
+Statek 12: Czekam po prawej stronie.
+Statek 10: zacznam zbierac zgody po prawej stronie
+Statek 3 req_id:13: Plyne w lewa strone w kanale nr: 2
+Statek 2 req_id:13: Plyne w prawa strone w kanale nr: 1
+Statek 14: Opuszczam kanal nr: 0
+Statek 14: Czekam po lewej stronie.
+Statek 4 req_id:13: Plyne w prawa strone w kanale nr: 0
+Statek 0: Opuszczam kanal nr: 3
+Statek 0: Czekam po prawej stronie.
+Statek 11: zacznam zbierac zgody po lewej stronie
+Statek 1: Opuszczam kanal nr: 3
+Statek 1: Czekam po prawej stronie.
+Statek 5 req_id:13: Plyne w prawa strone w kanale nr: 3
+Statek 6 req_id:13: Plyne w prawa strone w kanale nr: 3
+Statek 13: zacznam zbierac zgody po prawej stronie
+Statek 12: zacznam zbierac zgody po prawej stronie
+Statek 3: Opuszczam kanal nr: 2
+Statek 7 req_id:13: Plyne w prawa strone w kanale nr: 2
+Statek 2: Opuszczam kanal nr: 1
+Statek 2: Czekam po prawej stronie.
+Statek 3: Czekam po lewej stronie.
+Statek 14: zacznam zbierac zgody po lewej stronie
+Statek 8 req_id:13: Plyne w prawa strone w kanale nr: 1
+Statek 4: Opuszczam kanal nr: 0
+Statek 4: Czekam po prawej stronie.
+Statek 9 req_id:13: Plyne w prawa strone w kanale nr: 2
+Statek 0: zacznam zbierac zgody po prawej stronie
+Statek 1: zacznam zbierac zgody po prawej stronie
+Statek 5: Opuszczam kanal nr: 3
+Statek 5: Czekam po prawej stronie.
+Statek 10 req_id:13: Plyne w lewa strone w kanale nr: 0
+Statek 6: Opuszczam kanal nr: 3
+Statek 6: Czekam po prawej stronie.
+Statek 7: Opuszczam kanal nr: 2
+Statek 2: zacznam zbierac zgody po prawej stronie
+Statek 7: Czekam po prawej stronie.
+Statek 3: zacznam zbierac zgody po lewej stronie
+Statek 8: Opuszczam kanal nr: 1
+Statek 8: Czekam po prawej stronie.
+Statek 4: zacznam zbierac zgody po prawej stronie
+Statek 11 req_id:13: Plyne w prawa strone w kanale nr: 1
+Statek 9: Opuszczam kanal nr: 2
+Statek 9: Czekam po prawej stronie.
+Statek 5: zacznam zbierac zgody po prawej stronie
+Statek 10: Opuszczam kanal nr: 0
+Statek 10: Czekam po lewej stronie.
+Statek 6: zacznam zbierac zgody po prawej stronie
+Statek 12 req_id:13: Plyne w lewa strone w kanale nr: 0
+Statek 13 req_id:13: Plyne w lewa strone w kanale nr: 2
+Statek 7: zacznam zbierac zgody po prawej stronie
+Statek 14 req_id:13: Plyne w prawa strone w kanale nr: 3
+Statek 8: zacznam zbierac zgody po prawej stronie
+Statek 11: Opuszczam kanal nr: 1
+Statek 11: Czekam po prawej stronie.
+Statek 9: zacznam zbierac zgody po prawej stronie
+Statek 0 req_id:14: Plyne w lewa strone w kanale nr: 1
+Statek 1 req_id:14: Plyne w lewa strone w kanale nr: 2
+Statek 10: zacznam zbierac zgody po lewej stronie
+Statek 12: Opuszczam kanal nr: 0
+Statek 12: Czekam po lewej stronie.
+Statek 2 req_id:14: Plyne w lewa strone w kanale nr: 0
+Statek 3 req_id:14: Plyne w prawa strone w kanale nr: 3
+Statek 13: Opuszczam kanal nr: 2
+Statek 13: Czekam po lewej stronie.
+Statek 4 req_id:14: Plyne w lewa strone w kanale nr: 2
+Statek 14: Opuszczam kanal nr: 3
+Statek 14: Czekam po prawej stronie.
+Statek 11: zacznam zbierac zgody po prawej stronie
+Statek 0: Opuszczam kanal nr: 1
+Statek 0: Czekam po lewej stronie.
+Statek 1: Opuszczam kanal nr: 2
+Statek 1: Czekam po lewej stronie.
+Statek 5 req_id:14: Plyne w lewa strone w kanale nr: 1
+Statek 6 req_id:14: Plyne w lewa strone w kanale nr: 2
